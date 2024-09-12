@@ -16,7 +16,7 @@
       <description>Set this to TRUE if you have problems with accidentally hitting the touchpad while typing.</description>
     </key>
     <key name="tap-to-click" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Enable mouse clicks with touchpad</summary>
       <description>Set this to TRUE to be able to send mouse clicks by tapping on the touchpad.</description>
     </key>
